@@ -1,11 +1,11 @@
 {
-  "name": "RosieDark",
-  "description": "same good old Rosie theme but dark :3 (Port of Enmity theme) Thanks Rosie<3 For testing purposes",
+  "name": "RosieDarkNoBG",
+  "description": "Rosie Theme but with no background",
   "version": "1",
   "authors": [
     {
-      "name": "Rairof",
-      "id": "807170846497570848"
+      "name": "puhbu",
+      "id": "763525801945071637"
     }
   ],
   "semanticColors": {
@@ -363,11 +363,6 @@
     "NotoSans-NormalItalic": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Regular.ttf?raw=1",
     "NotoSans-Semibold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Medium.ttf?raw=1",
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Cabin/blob/main/Cabin-Medium.ttf?raw=1"
-  },
-  "background": {
-    "blur": 0.1,
-    "url": "https://i.imgur.com/Kfk07Ux.jpeg",
-    "OPACITY": 0
   },
   "plus": {
     "version": "0",
